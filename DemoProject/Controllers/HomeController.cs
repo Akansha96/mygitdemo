@@ -10,6 +10,7 @@ namespace DemoProject.Controllers
     {
         public ActionResult Index()
         {
+            //This is master
           //this is from dev
             return View();
         }
